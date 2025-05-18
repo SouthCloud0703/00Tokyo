@@ -1,24 +1,62 @@
 # Seed Validator
 
-Below are the key addresses for Seed Validator:
+## Our Vision
+
+Seed Validator aims to maximize the potential of validators through:
+
+- **Value-Added Validator Services**
+  - Validators as funding mechanisms for startups
+  - Validators as funding sources for non-profit organizations
+  - Validators for improving application UX
+
+- **Infrastructure Strengthening**
+  - Leveraging our Japan-based position to promote Double Zero's IBRL in the Japanese market
+  - Building robust and resilient validation infrastructure
+
+- **Validator Ecosystem Optimization**
+  - Encouraging decentralization by onboarding emerging validators
+  - Active participation in governance of stake pools like Marinade
+
+## Roadmap
+
+### Short-term Goals
+- Operate Seed Validator with high efficiency and reliability
+- Onboard application and community-driven validators
+- Participate in Marinade governance, focusing on auction mechanisms
+- Contribute pull requests to improve existing protocols
+
+### Mid-term Goals
+- Support Double Zero's entry into the Japanese market
+  - Lobbying efforts targeting companies with dark fiber infrastructure (e.g., NTT)
+  - Supporting Japan-based validators in adapting to Double Zero requirements
+
+### Long-term Goals
+- Develop protocols that make it easier for application and community-driven validators to gain delegation
+- Create sustainable validator ecosystems that benefit the entire blockchain network
+
+
+## Achievements
+
+### Validator Onboarding
+We've successfully helped onboard the following validators:
+- [Honeycomb Protocol](https://x.com/honeycomb_prtcl)
+- [HiveFi](https://x.com/Hivefi_X)
+- [Students Web3 Unit](https://x.com/studentsweb3)
+
+### Governance Participation
+- **Marinade Finance**
+  - Proposed a mechanism to eliminate sandwich attackers: [Proposal: Introduction of a new penalty mechanism for sandwich attackers](https://forum.marinade.finance/t/proposal-introduction-of-a-new-penalty-mechanism-for-sandwich-attackers/1866)
+
+## Contact
+
+x : https://x.com/SouthCloud0703
+
+## Validator Information
+
+Below are the pubkeys for Seed Validator:
 
 | Network | Type | Address |
 |---------|------|---------|
 | Mainnet | Identity | 4k6wgP5WPBKQpsFGtzuXNrjcTE2fKWLj17nDvFeG5zSF |
 | Testnet | Identity | ByMkAg2cPLMn3WuZpF2Rf1kfuuHxZmhDhBjZmy9VDDua |
 | Mainnet | Vote Account | 8zuMRTXThoPTTPLLvaiKiJshLLCqGMt9BdRjjCL19xBc |
-
-## Mission
-
-Seed Validator is committed to the following missions to contribute to the development of the Solana ecosystem:
-
-### Contributing to the Solana Validator Ecosystem
-
-- **Marinade Governance**  
-  Contributing to the healthy development of decentralized staking protocols through governance activities within the Marinade DAO.
-
-- **Double Zero Expansion into the Japanese Market**  
-  Supporting Double Zero's expansion into the Japanese market to contribute to the growth of the Solana ecosystem in Japan.
-
-- **Validator Operation Support for Startups**  
-  Providing technical support for validator operations to emerging projects, helping to enhance the decentralization and robustness of the Solana network.
