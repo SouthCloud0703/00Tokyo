@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="Seed Validator Logo" width="200"/>
+  <img src="image/logo.png" alt="Seed Validator Logo" width="200"/>
 </p>
 
 # Seed Validator
