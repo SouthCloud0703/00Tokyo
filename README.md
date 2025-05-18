@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.png" alt="Seed Validator Logo" width="200"/>
+</p>
+
 # Seed Validator
 
 ## Our Vision
@@ -58,5 +62,5 @@ Below are the pubkeys for Seed Validator:
 | Network | Type | Address |
 |---------|------|---------|
 | Mainnet | Identity | 4k6wgP5WPBKQpsFGtzuXNrjcTE2fKWLj17nDvFeG5zSF |
-| Testnet | Identity | ByMkAg2cPLMn3WuZpF2Rf1kfuuHxZmhDhBjZmy9VDDua |
 | Mainnet | Vote Account | 8zuMRTXThoPTTPLLvaiKiJshLLCqGMt9BdRjjCL19xBc |
+| Testnet | Identity | ByMkAg2cPLMn3WuZpF2Rf1kfuuHxZmhDhBjZmy9VDDua |
