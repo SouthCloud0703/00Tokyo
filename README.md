@@ -56,12 +56,14 @@ x : https://x.com/SouthCloud0703
 
 ## Validator Information
 
+### Parameters
+
 | Parameter | Value |
 |-----------|-------|
 | Commission | 0% | 
-| MEV | 0% |
+| Jito MEV | 0% |
 
-Below are the pubkeys for Seed Validator:
+### Pubkeys
 
 | Network | Type | Address |
 |---------|------|---------|
