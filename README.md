@@ -38,7 +38,6 @@ Seed Validator aims to maximize the potential of validators through:
 - Develop protocols that make it easier for application and community-driven validators to gain delegation
 - Create sustainable validator ecosystems that benefit the entire blockchain network
 
-
 ## Achievements
 
 ### Validator Onboarding
@@ -56,6 +55,11 @@ We've successfully helped onboard the following validators:
 x : https://x.com/SouthCloud0703
 
 ## Validator Information
+
+| Parameter | Value |
+|-----------|-------|
+| Commission | 0% | 
+| MEV | 0% |
 
 Below are the pubkeys for Seed Validator:
 
