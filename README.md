@@ -9,17 +9,15 @@
 Seed Validator aims to maximize the potential of validators through:
 
 - **Value-Added Validator Services**
-  - Validators as funding mechanisms for startups
-  - Validators as funding sources for non-profit organizations
+  - Validators as funding sources for startups & non-profit organizations
   - Validators for improving application UX
-
-- **Infrastructure Strengthening**
-  - Leveraging our Japan-based position to promote Double Zero's IBRL in the Japanese market
-  - Building robust and resilient validation infrastructure
 
 - **Validator Ecosystem Optimization**
   - Encouraging decentralization by onboarding emerging validators
   - Active participation in governance of stake pools like Marinade
+
+- **Infrastructure Strengthening**
+  - Leveraging our Japan-based position to promote Double Zero's IBRL in the Japanese market
 
 ## Roadmap
 
