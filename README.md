@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="image/logo.png" alt="Seed Validator Logo" width="200"/>
+  <img src="image/logo.png" alt="00Tokyo Validator Logo" width="200"/>
 </p>
 
-# Seed Validator
+# 00Tokyo Validator
 
 ## Our Vision
 
-Seed Validator aims to maximize the potential of validators through:
+00Tokyo Validator aims to maximize the potential of validators through:
 
 - **Value-Added Validator Services**
   - Validators as funding sources for startups & non-profit organizations
@@ -22,7 +22,7 @@ Seed Validator aims to maximize the potential of validators through:
 ## Roadmap
 
 ### Short-term Goals
-- Operate Seed Validator with high efficiency and reliability
+- Operate 00Tokyo Validator with high efficiency and reliability
 - Onboard application and community-driven validators
 - Participate in Marinade governance, focusing on auction mechanisms
 - Contribute pull requests to improve existing protocols
