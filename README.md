@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="image/logo.png" alt="00Tokyo Validator Logo" width="200"/>
-</p>
+
 
 # 00Tokyo Validator
 
